@@ -1,0 +1,2 @@
+Select *
+FROM PortfolioProject..CovidDeaths
