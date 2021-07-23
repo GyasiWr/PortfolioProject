@@ -1,2 +1,2 @@
 # Portfolio Project Covid
-SQL query's used while exploring the CDC covid cases dataset
+These are the SQL querys used while exploring the covid 19 data provided by ourworldindata.org
